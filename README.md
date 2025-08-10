@@ -124,9 +124,9 @@ This server is part of the **Puch AI Hackathon** submission, featuring:
 - ✅ Productivity enhancement tools
 
 
-**Team:** Jyotishman Das and Suvadip Chakraborty
-**Project:** AI Creative & Production Suite
-**Hashtag:** #BuildWithPuch
+- **Team:** Jyotishman Das and Suvadip Chakraborty
+- **Project:** AI Creative & Production Suite
+- **Hashtag:** #BuildWithPuch
 
 ## 📞 **Support**
 
