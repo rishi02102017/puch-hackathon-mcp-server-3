@@ -1,4 +1,8 @@
-# AI Creative & Production Studio Suite - MCP Server
+<h1 align="center"> AI Creative & Production Studio Suite - MCP Server</h1>
+
+<p align="center">
+  <img src="puch_ai_banner.jpeg" alt="Banner image" width="500"/>
+</p>
 
 A powerful Model Context Protocol (MCP) server that provides 10 cutting-edge AI tools for creative content creation, media production, automation, and entertainment.
 
